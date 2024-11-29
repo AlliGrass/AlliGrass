@@ -10,7 +10,7 @@ I've always loved coding ever since I was introduced to it at the ripe age of 10
 ### [Terminal Emulator](https://github.com/AlliGrass/terminal-rock-paper-scissors)
 Full-Stack application that allows the user to use the terminal effectively as well as run various programs from the terminal.
 
-### [Personal Portfolio](alligrass.dev)
+### [Personal Portfolio](https://alligrass.dev)
 I am always working on my portfolio to keep it up to date with my current skillset and capabilities
 
 ## Previous Projects
