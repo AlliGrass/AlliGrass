@@ -18,7 +18,7 @@ I am always working on my portfolio to keep it up to date with my current skills
 ### [Solitaire](https://alligrass.github.io/project1_Solitaire/)
 The classic card game that was made without using any libraries or apis within 3 days
 
-### [Australian Petrol Station ](https://github.com/AlliGrass/Servo-project3)
+### [Australian Petrol Station Map](https://github.com/AlliGrass/Servo-project3)
 A group collaboration project that shows all the available petrol stations in Australia. Uses various APIs and keys to be able to accomplish the interactive map. Completed within 4 days.
 
 ### Java Terminal Programs 
