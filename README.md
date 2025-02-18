@@ -7,13 +7,16 @@ I've always loved coding ever since I was introduced to it at the ripe age of 10
 
 ## What I'm working on
 
-### [Terminal Emulator](https://github.com/AlliGrass/terminal-rock-paper-scissors)
-Full-Stack application that allows the user to use the terminal effectively as well as run various programs from the terminal.
+### Calculator Mobile App
+It is foundational stage. This will be updated as I make further progress on the project
 
 ### [Personal Portfolio](https://alligrass.dev)
 I am always working on my portfolio to keep it up to date with my current skillset and capabilities
 
 ## Previous Projects
+
+### [Terminal Emulator](https://github.com/AlliGrass/terminal-rock-paper-scissors)
+Full-Stack application that allows the user to use the terminal effectively as well as run various programs from the terminal.
 
 ### [Solitaire](https://alligrass.github.io/project1_Solitaire/)
 The classic card game that was made without using any libraries or apis within 3 days
