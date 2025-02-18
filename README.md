@@ -8,7 +8,7 @@ I've always loved coding ever since I was introduced to it at the ripe age of 10
 ## What I'm working on
 
 ### Calculator Mobile App
-It is foundational stage. This will be updated as I make further progress on the project
+It is currently in its foundational stage as I am learning Kotlin/Android Studio. This will be updated as I make further progress on the project
 
 ### [Personal Portfolio](https://alligrass.dev)
 I am always working on my portfolio to keep it up to date with my current skillset and capabilities
