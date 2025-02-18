@@ -29,6 +29,11 @@ Several terminal based applications using Java
 - [Cinema Reservations](https://github.com/AlliGrass/Cinema-Reservation) - Create booking tickets within a cinema, displaying available seats with the ability to automatically assign seats based on the number of desired seats and available space.
 - [Insurance + Policy](https://github.com/AlliGrass/Insurance-System) - Create customers for their insurance choices and apply policies. Fully developed for the use of staff personel
 
+## Future Projects
+
+### AI Desktop Helper
+I intend to create an AI in the future which will be purely conversation to start off with. In future there will be plenty of opportunities to expand on this project.
+
 <!--
 **AlliGrass/AlliGrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
