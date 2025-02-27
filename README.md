@@ -10,7 +10,7 @@ I've always loved coding ever since I was introduced to it at the ripe age of 10
 ### Calculator Mobile App
 It is currently in its foundational stage as I am learning Kotlin/Android Studio. This will be updated as I make further progress on the project
 
-### Memory Enhancement Games
+### [Memory Enhancement Games](https://github.com/AlliGrass/memory-enhancement)
 As I am currently in the process of learning two different languages I am committed to creating software that will improve my learning process. At this point in time it is only suitable for my personal vocabulary lists, however there is potential to customise them for a better experience in the near future. Starting as a browser application I am hoping to migrate this onto mobile platforms once the program is more fleshed out.
 
 ### [Personal Portfolio](https://alligrass.dev)
